@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Kayra3437
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Kayra3437/Kayra3437 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Pictures</title>
+        <h3> Hi Hamster</h1>
+        <p> Hamsters are <strong>very pretty</strong>.<em>love them</em>.</p>
+    </head>
+   
+    <body>
+        
+        <a href="about.html"> about </a>
+       <a href="https://www.youtube.com/shorts/0WZqs1z6SV8" target="_blank" rel="noopener noreferrer">click me</a>
+          <img src="hamster.jpg"> 
+    
+    </body>
+</html>
